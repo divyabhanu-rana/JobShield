@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+matplotlib
+tensorflow==2.20.0
+streamlit
+notebook
