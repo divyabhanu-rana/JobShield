@@ -1,0 +1,10 @@
+{
+    "model": "jobshield_dnn.keras",
+    "decision_threshold": 0.48499999999999993,
+    "selection_dataset": "validation",
+    "minimum_requested_recall": 0.95,
+    "recall_requirement_met": true,
+    "validation_recall": 0.9609375,
+    "validation_f1": 0.8065573770491803,
+    "score_calibrated": false
+}
